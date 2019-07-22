@@ -1,0 +1,11 @@
+{
+  "name": "Order",
+  "connector": "mongodb",
+  "url": "mongodb://zhuzhu1:zhuzhu1@ds139879.mlab.com:39879/zhu",
+  "host": "",
+  "port": 0,
+  "user": "",
+  "password": "",
+  "database": "",
+  "useNewUrlParser": true
+}
